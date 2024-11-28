@@ -54,3 +54,4 @@ https://projeto-luss-awyn5mgampf4ew2uw6kxok.streamlit.app/
 - Luan Cavalcante Dias Rodrigues - 1272122479
 - Maria Luiza Amorim- 12724215829
 - Ramiro Lázaro Macuácua - 1272116518
+- Adailton Lima Santos Segundo - 12724218412
