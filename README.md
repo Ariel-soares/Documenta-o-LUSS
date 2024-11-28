@@ -48,3 +48,5 @@ https://projeto-luss-awyn5mgampf4ew2uw6kxok.streamlit.app/
 - Ariel Soares Franco RA: 12722210594
 - José Miraldo Mascarenhas Dias Júnior - 1272118531
 - João Spinola Falcão - 12723116405
+- Hallyson Ronald Florencio de Lima - RA: 1271825771
+- Pedro Adaime Ribeiro 12723119338
