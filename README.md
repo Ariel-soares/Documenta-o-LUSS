@@ -50,3 +50,7 @@ https://projeto-luss-awyn5mgampf4ew2uw6kxok.streamlit.app/
 - João Spinola Falcão - 12723116405
 - Hallyson Ronald Florencio de Lima - RA: 1271825771
 - Pedro Adaime Ribeiro 12723119338
+- Caio Lucius Nascimento Sales - 12724210011
+- Luan Cavalcante Dias Rodrigues - 1272122479
+- Maria Luiza Amorim- 12724215829
+- Ramiro Lázaro Macuácua - 1272116518
